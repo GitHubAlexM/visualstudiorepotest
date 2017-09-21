@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\bin\Debug\mouseSim.exe.config
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\bin\Debug\mouseSim.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\bin\Debug\mouseSim.pdb
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\obj\Debug\mouseSim.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\obj\Debug\mouseSim.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\obj\Debug\mouseSim.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\obj\Debug\mouseSim.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\obj\Debug\mouseSim.exe
+C:\Users\Alex\Documents\Visual Studio 2017\Projects\mouseSim\mouseSim\obj\Debug\mouseSim.pdb
